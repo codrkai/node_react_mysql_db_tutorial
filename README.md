@@ -1,6 +1,6 @@
 # Using MySQL with Node and React JS
 
-# This tutorial uses the same project files from node_react_mongodb_tutorial, and modified to use with MySQL database instead of MongoDB.
+This tutorial uses the same project files from node_react_mongodb_tutorial, and modified to use with MySQL database instead of MongoDB.
 
 First, install MYSQL using homebrew
 
